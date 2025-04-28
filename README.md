@@ -1,2 +1,2 @@
-# e-book
-electronic book
+# e-books
+electronic books
